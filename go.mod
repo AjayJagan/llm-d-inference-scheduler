@@ -5,7 +5,7 @@ go 1.24.1
 toolchain go1.24.2
 
 require (
-	github.com/go-logr/logr v1.4.3
+	github.com/go-logr/logr v1.4.4
 	github.com/google/go-cmp v0.7.0
 	github.com/llm-d/llm-d-kv-cache-manager v0.1.1
 	github.com/redis/go-redis/v9 v9.11.0
