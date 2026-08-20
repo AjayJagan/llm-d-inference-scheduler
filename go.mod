@@ -1,8 +1,6 @@
 module github.com/llm-d/llm-d-inference-scheduler
 
-go 1.24.1
-
-toolchain go1.24.2
+go 1.25
 
 require (
 	github.com/go-logr/logr v1.4.3
@@ -32,7 +30,7 @@ require (
 	github.com/envoyproxy/go-control-plane/envoy v1.32.4 // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.2.1 // indirect
 	github.com/evanphx/json-patch/v5 v5.9.11 // indirect
-	github.com/felixge/httpsnoop v1.0.4 // indirect
+	github.com/felixge/httpsnoop v1.1.0 // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
 	github.com/fxamacker/cbor/v2 v2.7.0 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
